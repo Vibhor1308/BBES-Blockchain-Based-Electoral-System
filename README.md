@@ -1,2 +1,2 @@
 # BBES-Blockchain-Based-Electoral-System
-This is a blockchain based 
+This is an electoral system based on BlockChain technology.
